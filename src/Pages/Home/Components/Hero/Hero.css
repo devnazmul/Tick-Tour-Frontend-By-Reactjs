@@ -1,0 +1,10 @@
+.Hero{
+    background-image: url('https://i.ibb.co/PjNRvjx/hero.webp');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 650px;
+}
+.hero-text{
+    font-family: 'Archivo Black', sans-serif;
+}
